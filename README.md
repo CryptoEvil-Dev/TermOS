@@ -11,3 +11,4 @@ gcc -ffreestanding -nostdlib kernel/kernel.c -o Kernel_ELF.o
 
 # Running
 qemu-system-x86_64 TermOS.bin
+
